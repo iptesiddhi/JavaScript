@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript Project
+JavaScript Project: TO-DO Application
